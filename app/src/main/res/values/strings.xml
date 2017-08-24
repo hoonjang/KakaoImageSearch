@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">image search</string>
+    <string name="search_view_hint">검색어를 입력해 주세요</string>
+    <string name="no_images_description">이미지 검색 결과가 없습니다.</string>
+    <string name="error_description">오류가 발생했습니다.</string>
+    <string name="last_image_indicator_description">마지막 이미지입니다.</string>
+</resources>
